@@ -1,0 +1,43 @@
+LINE 1: [DEATH STAR PLANS]
+LINE 2: 	A comprehensive guide to constructing the ultimate space station.
+LINE 3:
+LINE 4: [SECTION 1: OVERVIEW]
+LINE 5: 	The Death Star is a moon-sized military space station with the capability to destroy entire planets.
+LINE 6: 	Purpose: To enforce peace through the galaxy via superior firepower.
+LINE 7:
+LINE 8: [SECTION 2: DIMENSIONS]
+LINE 9: 	Diameter: Approx. 160 km
+LINE 10: 	Comprising thousands of levels and compartments.
+LINE 11:
+LINE 12: [SECTION 3: SUPERLASER]
+LINE 13: 	Central weapon system.
+LINE 14: 	Powered by massive kyber crystals.
+LINE 15: 	Capable of obliterating entire planets with a single shot.
+LINE 16:
+LINE 17: [SECTION 4: DEFENSE SYSTEMS]
+LINE 18: 	Protected by an energy shield.
+LINE 19: 	Turbolaser towers and TIE fighters for defense against starships.
+LINE 20:
+LINE 21: [SECTION 5: PROPULSION]
+LINE 22: 	Equipped with hyperdrive and sublight engines.
+LINE 23: 	Powered by a hypermatter reactor.
+LINE 24:
+LINE 25: [SECTION 6: VULNERABILITIES]
+LINE 26: 	There is a thermal exhaust port leading to the main reactor.
+LINE 27: 	The exhaust port is ray shielded, so only proton torpedoes can enter.
+LINE 28: 	The exhaust port is small, approximately 2 meters wide, just large enough for proton torpedoes to make it through.
+LINE 29: 	A direct hit to the exhaust port with proton torpedoes will cause a chain reaction leading to the destruction of the Death Star.
+LINE 30:
+LINE 31: [SECTION 7: CONSTRUCTION MATERIALS]
+LINE 32: 	Quadanium steel outer hull.
+LINE 33: 	Durasteel for internal structures.
+LINE 34: 	Carbonite and doonium as supplementary materials.
+LINE 35:
+LINE 36: [SECTION 8: PERSONNEL]
+LINE 37: 	Staffed with Imperial military personnel, engineers, and droids.
+LINE 38: 	Commanded by a Grand Moff or other high-ranking Imperial officer.
+LINE 39:
+LINE 40: [SECTION 9: CONSTRUCTION & DEPLOYMENT]
+LINE 41: 	Construction to be overseen by Imperial engineers.
+LINE 42: 	Assembly to take place in orbit around a remote planet for secrecy.
+LINE 43: 	Once operational, deploy to strategic locations for maximum control of star systems.
